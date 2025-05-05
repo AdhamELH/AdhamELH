@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Adham Elhenawy
 
-Welcome to my GitHub! I'm a Business Analytics graduate student passionate about turning data into decisions. I blend technical skills with real-world problem-solving—from coding and car builds to data dashboards and strategy consulting.
+Welcome to my GitHub! I'm a Business Analytics graduate student passionate about turning data into decisions. I blend technical skills with real-world problem-solving—from coding to data dashboards and strategy consulting.
 
 ## 🔍 About Me
 
