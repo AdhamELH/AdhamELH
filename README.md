@@ -20,6 +20,8 @@ Welcome to my GitHub! I'm a Business Analytics graduate student passionate about
   A collection of hands-on SQL projects built in SQL Server Management Studio (SSMS), focusing on data querying, cleaning, filtering logic, subqueries, and analytics. Includes retail database use cases and downloadable scripts for practice.
 - [`python-portfolio`](https://github.com/AdhamELH/python-portfolio):  
   A work-in-progress collection of Python projects focused on data analysis, automation, and visualization using tools like Pandas, Matplotlib, and Jupyter. Actively evolving with new scripts and insights as I expand my technical toolkit.
+- [`fullstack-data-projects`](https://github.com/AdhamELH/fullstack-data-projects):  
+  A developing portfolio that blends Python, SQL, and Tableau into full-case data projects — covering everything from data extraction and transformation to final visualization and storytelling.
 
 > Check the pinned repos below or simply click any of the above for more!
 
